@@ -48,7 +48,7 @@ Responsive media queries
 ***********************************/
 
 .header {
-  background: url('../img/7.jpg') no-repeat fixed;
+  background: url('../img/brighton_bg2.jpg') no-repeat fixed;
   background-size: cover;
   min-height: 630px;
   position: relative;
@@ -145,7 +145,7 @@ Responsive media queries
 }
 
 #about {
-  background: url('../img/b2.jpg') no-repeat;
+  background: url('../img/brighton_bg4.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
 }
@@ -163,18 +163,18 @@ Responsive media queries
   padding: 0px 25px 0px 0px;
   border-right: 5px solid #BE2525;
   font-size: 24px;
-  color: #fffbfb;
+  color: #1d1b1b;
 }
 
 .about-text p {
-  color: #fffbfb;
+  color: #1d1b1b;
 }
 
 .abt-list li {
   padding: 5px 0px;
   font-size: 18px;
   font-weight: 400;
-  color: #fffbfb;
+  color: #1d1b1b;
 }
 
 #portfolio {
